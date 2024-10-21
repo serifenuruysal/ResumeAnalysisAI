@@ -9,6 +9,13 @@ build/
 dist/
 out/
 
+# Production
+.env
+.env.production
+.env.development
+.env.local
+env
+
 # Dependency directories
 jspm_packages/
 
