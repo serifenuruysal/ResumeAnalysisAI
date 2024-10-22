@@ -1,5 +1,5 @@
 
-# Resume Analysis AI
+# Resume Analysis AI Agent
 
 This is a web application that allows users to upload their resumes and get analysis based on AI models. The analysis provides insights into the structure, formatting, and content quality of resumes, helping users optimize them for better results in job applications.
 
