@@ -3,6 +3,8 @@
 
 This is a web application that allows users to upload their resumes and get analysis based on AI models. The analysis provides insights into the structure, formatting, and content quality of resumes, helping users optimize them for better results in job applications.
 
+<img width="1255" alt="Screenshot 2024-10-22 at 13 04 32" src="https://github.com/user-attachments/assets/59b8217c-49c7-4e14-af77-28956ca41c5c">
+
 ## Features
 
 - **Resume Upload**: Users can upload their resume files in PDF format.
